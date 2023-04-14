@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 1-Introduction.aux
+The style file: plain.bst
+Database file #1: SAMPLE.bib
+Warning--to sort, need author or key in LaTeX
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            507 strings with 4159 characters,
+and the built_in function-call counts, 479 in all, are:
+= -- 45
+> -- 14
+< -- 0
++ -- 6
+- -- 4
+* -- 27
+:= -- 78
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 18
+empty$ -- 48
+format.name$ -- 4
+if$ -- 104
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 12
+num.names$ -- 2
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 25
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 1
+while$ -- 3
+width$ -- 3
+write$ -- 20
+(There was 1 warning)
